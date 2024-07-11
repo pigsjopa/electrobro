@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Электротехнический словарь</title>
+<style>
+  /* ваш CSS код */
+
+  /* Новый CSS для выделения начала каждого слова */
+  .highlighted {
+    color: orange;
+  }
+</style>
+</head>
+<body>
